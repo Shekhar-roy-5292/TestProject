@@ -1,0 +1,28 @@
+{
+  "Post": [
+    {
+      "id": 1,
+      "name": "Abir",
+      "age": 20,
+      "address": "123 Main St"
+    },
+    {
+      "name": "Shekhar",
+      "age": "27",
+      "address": "India",
+      "id": 2
+    },
+    {
+      "name": "shakil",
+      "age": "20",
+      "address": "3 no ghumti",
+      "id": 3
+    },
+    {
+      "name": "sham",
+      "age": "20",
+      "address": "3 no ghumti",
+      "id": 4
+    }
+  ]
+}
